@@ -1,6 +1,6 @@
 {
   "name": "coanmo-plugin-foo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Just figuring out a format for CoAnMo plugins, which can be imported into CodeSandbox",
   "main": "dist/coanmo-plugin-foo.js",
   "type": "module",
