@@ -1,11 +1,13 @@
 {
   "name": "coanmo-plugin-foo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just figuring out a format for CoAnMo plugins, which can be imported into CodeSandbox",
   "main": "dist/coanmo-plugin-foo.js",
   "type": "module",
+  "types": "./dist/coanmo-plugin-foo.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rmplastow/coanmo-plugin-foo/issues"
   },
-  "homepage": "https://github.com/rmplastow/coanmo-plugin-foo#readme"
+  "homepage": "https://github.com/rmplastow/coanmo-plugin-foo#readme",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
 }
