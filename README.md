@@ -1,0 +1,1 @@
+# coanmo-plugin-foo
