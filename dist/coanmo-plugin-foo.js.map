@@ -1,0 +1,1 @@
+{"version":3,"file":"coanmo-plugin-foo.js","sourceRoot":"","sources":["../src/coanmo-plugin-foo.ts"],"names":[],"mappings":"AAAA;IAEE,yBAAa,GAAW;QAAX,oBAAA,EAAA,WAAW;QACtB,OAAO,CAAC,GAAG,CAAC,0BAAwB,GAAK,CAAC,CAAA;QAC1C,IAAI,CAAC,GAAG,GAAG,GAAG,CAAC;IACjB,CAAC;IACD,gCAAM,GAAN;QACE,OAAU,IAAI,CAAC,GAAG,MAAG,CAAA;IACvB,CAAC;IACH,sBAAC;AAAD,CAAC,AATD,IASC"}
